@@ -1,0 +1,9 @@
+{
+  "registry": "../../shadcn-vue/registry/registry.json",
+  "aliases": {
+    "components": "@/components",
+    "composables": "@/composables",
+    "lib": "@/lib",
+    "assets": "@/assets"
+  }
+}
