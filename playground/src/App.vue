@@ -1,7 +1,12 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import { Boton } from "./components/app/Button"
+import { Dialog } from "./components/app/Dialog"
 </script>
 
 <template>
-  <HelloWorld />
+  <Dialog>  <Boton label="hola"></Boton>
+    <template #content>
+      Eyyy
+    </template>
+</Dialog>
 </template>
