@@ -2,17 +2,17 @@
   "package": "@nononavas/shadcn-vue",
   "alias": "@nononavas/shadcn-vue",
   "appDirectory": "src/components/app",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "files": {
     "Announcer/Announcer.vue": "8bff6d9db71650bc8320dbc468c1fdb23d72d7d4a016dc01ba3a8772212ca0e7",
     "Announcer/index.ts": "6680d2566030a8f50f836c014c2c22ce19ca8e6f99fa90854a3fe40849273513",
-    "Avatar/Avatar.vue": "fecc479014cd1bc4d8a76211c4b0e3b98171fe4700abd2db4ca3144b87bff18e",
-    "Avatar/index.ts": "6d5c5a59776957c8222e500b280461d15ab5938c4033205baf69a643d1174fc6",
-    "Badge/Badge.vue": "46abf6e78d74fed856ccb06152226185341d1e10e5b564d8790821708d1cf041",
-    "Badge/index.ts": "942caa297cba51090d800bd0ad233c5b58f82c001cb9c3b0ebcf66701239f8a6",
-    "Button/Button.vue": "e8ac7252ed154b328a8968ac891e9bfea36f784b82a74304c633c80c2fb113d5",
-    "Button/index.ts": "d6553202fe7ac61dedbc028ee715ef44846a4057c349dc053186686f250e2116",
-    "Card/Card.vue": "744d2b537b72abd16aae56cf96bbebbb6ffa7ac0c273f29161465b89b52b1e2a",
+    "Avatar/Avatar.vue": "f24a640507669235fa2b5202c3b5afee4a1a425daebead89b89e0c336bd8a6cf",
+    "Avatar/index.ts": "c4f0b1a68b61d21631f0aa358d25260da89ca53d758d75a7371d0bfe07fd7076",
+    "Badge/Badge.vue": "ae4689cc480d55a6ba0a83631c77c0c29c52cf5cffa3d688dcd6b17187402d87",
+    "Badge/index.ts": "3672ce5503e5b175d2f56845ce1f6d9331854ecb5f4c3a75a382efe7dfca5ab3",
+    "Button/Button.vue": "17584ca865397a4e4259383457aa7b66ead63c1f64a3777082fa26832f9383da",
+    "Button/index.ts": "e7d5dc702125393a69a5e0bca7a5656a62e7ff6355a1ca128647af5479da6b54",
+    "Card/Card.vue": "8a97588a00b3bcd82ba987b271f0696c1169194063518101380efc4339a4abc8",
     "Card/index.ts": "5a8bd2e147ffc0d0d611dad4fb910fc8357aeb6cd4b3e99b72af09e2350ac21c",
     "Checkbox/Checkbox.vue": "8832884cbe11a8ce7b97b4f8cecc9e8c0a1ca29ffb7d9009f158b617c39718ed",
     "Checkbox/index.ts": "64d410b4da165a8c210b4ba2118cf06217e5d000b9a5677e9d1573bf047bddf7",
@@ -50,6 +50,8 @@
     "Time/index.ts": "83f1ee99538d2506035bde392bbc2cdb2d7c71898dc61c17381c1b92834bd1fa",
     "Time/Time.vue": "1c3931487d6d6e96cd0d6cf57ec618be0f5c28a6bfbe15956b45f4b34fcdb9a1",
     "Tooltip/index.ts": "9509b9f4a07a7ff4015a7e89e8072842dba6806eae268e07773deadc6c9bae90",
-    "Tooltip/Tooltip.vue": "3d247966712cac56f08628391697e523472d34a7f370e44ac56911aeb234f82a"
+    "Tooltip/Tooltip.vue": "3d247966712cac56f08628391697e523472d34a7f370e44ac56911aeb234f82a",
+    "Accordeon/Accordeon.vue": "8e8be47410c93a2dfb02a9b75d00c2b480ded2846372aa8d135f9a0fc4a1def0",
+    "Accordeon/index.ts": "75603e9d24dd46d59f3d59939c30ea5a76ed03267dd5de94b12778f36eaa2d84"
   }
 }
